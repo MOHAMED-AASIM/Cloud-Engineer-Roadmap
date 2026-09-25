@@ -17,7 +17,7 @@
 
 How do I actually become a Cloud Engineer by 2027? If you are truly serious, here is the exact roadmap you need to follow.
 
-![Cloud Engineer Roadmap](cloud_engineer_roadmap.png)
+![Cloud Engineer Roadmap](https://drive.google.com/file/d/1EODwSgTbPRj7-bSVQ5cI9RUc8LlDw0QE/view?usp=drive_link)
 
 ## 1. Master Linux & Networking
 
